@@ -3,3 +3,4 @@ uvicorn
 rembg
 python-multipart
 pillow
+onnxruntime
